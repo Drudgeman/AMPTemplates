@@ -1,0 +1,30 @@
+[
+    {
+        "Protocol": "UDP",
+        "Port": "27016",
+        "Name": "Main Game Port",
+        "Description": "Port used for main game traffic",
+        "Ref": "MainGamePort"
+    },
+    {
+        "Protocol": "UDP",
+        "Port": "3658",
+        "Name": "Steam Query Port",
+        "Description": "Port used for main game traffic",
+        "Ref": "SteamQueryPort"
+    },
+    {
+        "Protocol": "TCP",
+        "Port": "20715",
+        "Name": "lobbyport",
+        "Description": "Port used for main game traffic",
+        "Ref": "lobbyport"
+    },
+    {
+        "Protocol": "UDP",
+        "Port": "8766",
+        "Name": "authport",
+        "Description": "Port used for main game traffic",
+        "Ref": "authport"
+    }
+]

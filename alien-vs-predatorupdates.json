@@ -1,0 +1,15 @@
+[
+    {
+        "UpdateStageName": "Dedicated Server Download",
+        "UpdateSourcePlatform": "All",
+        "UpdateSource": "SteamCMD",
+        "UpdateSourceData": "34120",
+        "UpdateSourceArgs": "34120",
+        "UnzipUpdateSource": false,
+        "OverwriteExistingFiles": false,
+        "ForceDownloadPlatform": "Windows",
+        "UpdateSourceConditionValue": "true",
+        "DeleteAfterExtract": true,
+        "OneShot": false
+    }
+]
